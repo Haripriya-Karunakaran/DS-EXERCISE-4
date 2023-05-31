@@ -1,6 +1,4 @@
-# DS-EXERCISE-4    
-                             
-# MULTIVARIATE ANALYSIS
+# EXERCISE-4           MULTIVARIATE ANALYSIS
 
 ## Aim: 
 
@@ -99,6 +97,34 @@ sns.barplot(x = df['Postal Code'],y = df['Ship Mode'],hue=df['Region'])
 df.corr()
 
 sns.heatmap(df.corr(),annot=True)
+
+## OUTPUT:
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/cfbd9096-3bff-4fb5-8fa6-a6f39986ae9f)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/92bcea49-403b-4114-83db-6f96aaa77020)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/cf50eb9b-affc-4958-9d6e-a39670506c51)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/549f9300-49bc-4b81-82b6-328d3f43d7e8)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/6cf6ef28-91a0-4bd9-b94b-f5397bb8e6f6)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/f6ec80cb-6770-476b-b9a3-c15f80c310de)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/fc0e131b-d660-4baf-a671-6585d48c4983)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/316267bb-8b3d-43fe-a4a6-0344392847d5)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/37240631-7225-4364-aa01-e74aa2d0fe67)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/79b8627f-3e2a-4476-9b14-07a11a6fed98)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/03ff230f-0c5e-481d-88c5-eac12d706267)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/4e0a5fce-ba60-429b-a5f9-925c54879d02)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-4/assets/126390051/c5b843e6-0552-423c-ab1b-c0a01e7631cc)
 
 ## RESULT
 
